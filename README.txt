@@ -1,0 +1,1 @@
+This was an ongoing project in 2012 for the SOC519 research project. We were going to use a series of empirical models to run microsimulations of the City of Corvallis and test alternative growth scenarios to examine the price of houseing. We ran out of time with regards to the microsimulation.
