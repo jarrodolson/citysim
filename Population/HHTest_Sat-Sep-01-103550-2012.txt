@@ -1,0 +1,418 @@
+HHID	HHType	HHFormedDate	adultNames	childNames	address	
+117_singleHH	1	PRE	['117']	[]	999999999	
+178_M_163	2	PRE	['178', '163']	['178_M_163_KID_0', '178_M_163_KID_1']	20195	178_M_163	
+266_singleHH	1	PRE	['266']	[]	17477	266_singleHH	
+262_singleHH	1	PRE	['262']	[]	7267	262_singleHH	
+564_singleHH	1	PRE	['564']	[]	8357	564_singleHH	
+522_singleHH	1	PRE	['522']	[]	999999999	
+554_M_561	2	PRE	['554', '561']	['554_M_561_KID_0']	17957	554_M_561	
+581_singleHH	1	PRE	['581']	[]	18974	581_singleHH	
+35_M_40	2	PRE	['35', '40']	['35_M_40_KID_0', '35_M_40_KID_1', '35_M_40_KID_2', '35_M_40_KID_3']	9490	35_M_40	
+14_singleHH	1	PRE	['14']	[]	15924	14_singleHH	
+239_singleHH	1	PRE	['239']	[]	9223	239_singleHH	
+519_singleHH	1	PRE	['519']	[]	999999999	
+655_singleHH	1	PRE	['655']	[]	19964	655_singleHH	
+98_singleHH	1	PRE	['98']	[]	15573	98_singleHH	
+296_singleHH	1	PRE	['296']	[]	16203	296_singleHH	
+430_singleHH	1	PRE	['430']	[]	20263	430_singleHH	
+523_M_498	2	PRE	['523', '498']	['523_M_498_KID_0', '523_M_498_KID_1', '523_M_498_KID_2', '523_M_498_KID_3']	18448	523_M_498	
+173_singleHH	1	PRE	['173']	[]	8696	173_singleHH	
+230_M_218	2	PRE	['230', '218']	['230_M_218_KID_0', '230_M_218_KID_1', '230_M_218_KID_2', '230_M_218_KID_3']	20579	230_M_218	
+47_singleHH	1	PRE	['47']	[]	999999999	
+388_singleHH	1	PRE	['388']	[]	19995	388_singleHH	
+397_singleHH	1	PRE	['397']	[]	15445	397_singleHH	
+481_singleHH	1	PRE	['481']	[]	999999999	
+30_M_31	2	PRE	['30', '31']	['30_M_31_KID_0', '30_M_31_KID_1', '30_M_31_KID_2', '30_M_31_KID_3']	18609	30_M_31	
+515_singleHH	1	PRE	['515']	[]	452	515_singleHH	
+387_singleHH	1	PRE	['387']	[]	999999999	
+9_singleHH	1	PRE	['9']	[]	9284	9_singleHH	
+559_singleHH	1	PRE	['559']	[]	5730	559_singleHH	
+327_singleHH	1	PRE	['327']	[]	10270	327_singleHH	
+393_singleHH	1	PRE	['393']	[]	2230	393_singleHH	
+174_singleHH	1	PRE	['174']	[]	999999999	
+395_singleHH	1	PRE	['395']	[]	999999999	
+143_M_144	2	PRE	['143', '144']	['143_M_144_KID_0', '143_M_144_KID_1']	13880	143_M_144	
+235_singleHH	1	PRE	['235']	[]	4928	235_singleHH	
+586_singleHH	1	PRE	['586']	[]	1556	586_singleHH	
+223_singleHH	1	PRE	['223']	[]	18995	223_singleHH	
+446_singleHH	1	PRE	['446']	[]	11082	446_singleHH	
+122_singleHH	1	PRE	['122']	[]	8269	122_singleHH	
+639_singleHH	1	PRE	['639']	[]	5063	639_singleHH	
+362_M_355	2	PRE	['362', '355']	['362_M_355_KID_0', '362_M_355_KID_1']	15111	362_M_355	
+514_singleHH	1	PRE	['514']	[]	999999999	
+177_singleHH	1	PRE	['177']	[]	13742	177_singleHH	
+449_singleHH	1	PRE	['449']	[]	10097	449_singleHH	
+241_singleHH	1	PRE	['241']	[]	10985	241_singleHH	
+311_singleHH	1	PRE	['311']	[]	15994	311_singleHH	
+502_singleHH	1	PRE	['502']	[]	12411	502_singleHH	
+443_singleHH	1	PRE	['443']	[]	17291	443_singleHH	
+566_singleHH	1	PRE	['566']	[]	6115	566_singleHH	
+156_singleHH	1	PRE	['156']	[]	16371	156_singleHH	
+95_singleHH	1	PRE	['95']	[]	13405	95_singleHH	
+191_M_168	2	PRE	['191', '168']	['191_M_168_KID_0', '191_M_168_KID_1', '191_M_168_KID_2']	3432	191_M_168	
+570_singleHH	1	PRE	['570']	[]	14801	570_singleHH	
+21_singleHH	1	PRE	['21']	[]	3588	21_singleHH	
+652_M_616	2	PRE	['652', '616']	[]	12361	652_M_616	
+99_singleHH	1	PRE	['99']	[]	18018	99_singleHH	
+361_singleHH	1	PRE	['361']	[]	6240	361_singleHH	
+329_singleHH	1	PRE	['329']	[]	999999999	
+324_singleHH	1	PRE	['324']	[]	999999999	
+558_singleHH	1	PRE	['558']	[]	999999999	
+292_singleHH	1	PRE	['292']	[]	11506	292_singleHH	
+584_singleHH	1	PRE	['584']	[]	20285	584_singleHH	
+573_singleHH	1	PRE	['573']	[]	7228	573_singleHH	
+37_singleHH	1	PRE	['37']	[]	3824	37_singleHH	
+648_singleHH	1	PRE	['648']	[]	9539	648_singleHH	
+315_singleHH	1	PRE	['315']	[]	14546	315_singleHH	
+332_singleHH	1	PRE	['332']	[]	2913	332_singleHH	
+357_singleHH	1	PRE	['357']	[]	19660	357_singleHH	
+438_singleHH	1	PRE	['438']	[]	4768	438_singleHH	
+293_singleHH	1	PRE	['293']	[]	999999999	
+325_singleHH	1	PRE	['325']	[]	268	325_singleHH	
+394_singleHH	1	PRE	['394']	[]	17621	394_singleHH	
+656_singleHH	1	PRE	['656']	[]	2783	656_singleHH	
+120_singleHH	1	PRE	['120']	[]	8002	120_singleHH	
+356_singleHH	1	PRE	['356']	[]	15556	356_singleHH	
+484_singleHH	1	PRE	['484']	[]	17119	484_singleHH	
+650_M_614	2	PRE	['650', '614']	['650_M_614_KID_0', '650_M_614_KID_1', '650_M_614_KID_2']	20978	650_M_614	
+226_singleHH	1	PRE	['226']	[]	10854	226_singleHH	
+409_M_410	2	PRE	['409', '410']	['409_M_410_KID_0', '409_M_410_KID_1', '409_M_410_KID_2']	11997	409_M_410	
+551_M_547	2	PRE	['551', '547']	['551_M_547_KID_0', '551_M_547_KID_1', '551_M_547_KID_2', '551_M_547_KID_3']	3197	551_M_547	
+490_M_489	2	PRE	['490', '489']	[]	17056	490_M_489	
+512_M_482	2	PRE	['512', '482']	['512_M_482_KID_0', '512_M_482_KID_1', '512_M_482_KID_2']	7596	512_M_482	
+182_singleHH	1	PRE	['182']	[]	14703	182_singleHH	
+236_singleHH	1	PRE	['236']	[]	8779	236_singleHH	
+499_M_479	2	PRE	['499', '479']	['499_M_479_KID_0', '499_M_479_KID_1']	3597	499_M_479	
+487_singleHH	1	PRE	['487']	[]	999999999	
+383_singleHH	1	PRE	['383']	[]	14942	383_singleHH	
+420_singleHH	1	PRE	['420']	[]	15087	420_singleHH	
+171_M_152	2	PRE	['171', '152']	['171_M_152_KID_0']	19630	171_M_152	
+488_singleHH	1	PRE	['488']	[]	3850	488_singleHH	
+172_singleHH	1	PRE	['172']	[]	4832	172_singleHH	
+500_singleHH	1	PRE	['500']	[]	12096	500_singleHH	
+11_singleHH	1	PRE	['11']	[]	14010	11_singleHH	
+651_singleHH	1	PRE	['651']	[]	7941	651_singleHH	
+642_singleHH	1	PRE	['642']	[]	999999999	
+454_singleHH	1	PRE	['454']	[]	1635	454_singleHH	
+372_singleHH	1	PRE	['372']	[]	999999999	
+631_singleHH	1	PRE	['631']	[]	16078	631_singleHH	
+318_M_295	2	PRE	['318', '295']	['318_M_295_KID_0', '318_M_295_KID_1']	16752	318_M_295	
+188_singleHH	1	PRE	['188']	[]	6195	188_singleHH	
+427_M_419	2	PRE	['427', '419']	['427_M_419_KID_0']	4552	427_M_419	
+649_singleHH	1	PRE	['649']	[]	20813	649_singleHH	
+389_singleHH	1	PRE	['389']	[]	5346	389_singleHH	
+458_singleHH	1	PRE	['458']	[]	5222	458_singleHH	
+662_singleHH	1	PRE	['662']	[]	15188	662_singleHH	
+524_singleHH	1	PRE	['524']	[]	999999999	
+121_singleHH	1	PRE	['121']	[]	4506	121_singleHH	
+41_singleHH	1	PRE	['41']	[]	999999999	
+164_singleHH	1	PRE	['164']	[]	13119	164_singleHH	
+20_singleHH	1	PRE	['20']	[]	3177	20_singleHH	
+628_singleHH	1	PRE	['628']	[]	999999999	
+151_M_158	2	PRE	['151', '158']	[]	10968	151_M_158	
+96_M_76	2	PRE	['96', '76']	['96_M_76_KID_0', '96_M_76_KID_1']	13962	96_M_76	
+38_singleHH	1	PRE	['38']	[]	999999999	
+660_singleHH	1	PRE	['660']	[]	20619	660_singleHH	
+483_singleHH	1	PRE	['483']	[]	14921	483_singleHH	
+382_singleHH	1	PRE	['382']	[]	16499	382_singleHH	
+18_singleHH	1	PRE	['18']	[]	15052	18_singleHH	
+641_singleHH	1	PRE	['641']	[]	10162	641_singleHH	
+101_M_77	2	PRE	['101', '77']	['101_M_77_KID_0', '101_M_77_KID_1']	1018	101_M_77	
+587_singleHH	1	PRE	['587']	[]	12655	587_singleHH	
+180_singleHH	1	PRE	['180']	[]	5012	180_singleHH	
+323_M_300	2	PRE	['323', '300']	['323_M_300_KID_0']	20251	323_M_300	
+640_singleHH	1	PRE	['640']	[]	6720	640_singleHH	
+185_M_165	2	PRE	['185', '165']	['185_M_165_KID_0', '185_M_165_KID_1']	17541	185_M_165	
+265_singleHH	1	PRE	['265']	[]	4305	265_singleHH	
+508_M_495	2	PRE	['508', '495']	['508_M_495_KID_0', '508_M_495_KID_1', '508_M_495_KID_2', '508_M_495_KID_3']	8014	508_M_495	
+591_singleHH	1	PRE	['591']	[]	16268	591_singleHH	
+567_singleHH	1	PRE	['567']	[]	999999999	
+552_M_549	2	PRE	['552', '549']	['552_M_549_KID_0', '552_M_549_KID_1', '552_M_549_KID_2']	2247	552_M_549	
+439_singleHH	1	PRE	['439']	[]	220	439_singleHH	
+84_M_78	2	PRE	['84', '78']	['84_M_78_KID_0', '84_M_78_KID_1', '84_M_78_KID_2', '84_M_78_KID_3']	1278	84_M_78	
+624_M_630	2	PRE	['624', '630']	['624_M_630_KID_0', '624_M_630_KID_1', '624_M_630_KID_2']	15274	624_M_630	
+363_singleHH	1	PRE	['363']	[]	18802	363_singleHH	
+319_singleHH	1	PRE	['319']	[]	999999999	
+116_M_88	2	PRE	['116', '88']	['116_M_88_KID_0', '116_M_88_KID_1']	8124	116_M_88	
+247_M_224	2	PRE	['247', '224']	[]	3256	247_M_224	
+432_singleHH	1	PRE	['432']	[]	7975	432_singleHH	
+242_singleHH	1	PRE	['242']	[]	999999999	
+155_singleHH	1	PRE	['155']	[]	8407	155_singleHH	
+575_singleHH	1	PRE	['575']	[]	16799	575_singleHH	
+423_singleHH	1	PRE	['423']	[]	8128	423_singleHH	
+518_singleHH	1	PRE	['518']	[]	20344	518_singleHH	
+160_singleHH	1	PRE	['160']	[]	20296	160_singleHH	
+585_M_562	2	PRE	['585', '562']	['585_M_562_KID_0']	12027	585_M_562	
+305_singleHH	1	PRE	['305']	[]	4255	305_singleHH	
+81_M_75	2	PRE	['81', '75']	[]	11940	81_M_75	
+4_singleHH	1	PRE	['4']	[]	11746	4_singleHH	
+376_singleHH	1	PRE	['376']	[]	12117	376_singleHH	
+26_singleHH	1	PRE	['26']	[]	910	26_singleHH	
+179_M_153	2	PRE	['179', '153']	['179_M_153_KID_0', '179_M_153_KID_1']	19993	179_M_153	
+28_M_0	2	PRE	['28', '0']	['28_M_0_KID_0', '28_M_0_KID_1']	1027	28_M_0	
+23_singleHH	1	PRE	['23']	[]	18317	23_singleHH	
+644_singleHH	1	PRE	['644']	[]	999999999	
+380_singleHH	1	PRE	['380']	[]	3020	380_singleHH	
+105_singleHH	1	PRE	['105']	[]	11966	105_singleHH	
+222_singleHH	1	PRE	['222']	[]	14966	222_singleHH	
+486_singleHH	1	PRE	['486']	[]	999999999	
+119_singleHH	1	PRE	['119']	[]	12166	119_singleHH	
+453_singleHH	1	PRE	['453']	[]	10196	453_singleHH	
+16_M_17	2	PRE	['16', '17']	['16_M_17_KID_0', '16_M_17_KID_1', '16_M_17_KID_2']	8072	16_M_17	
+312_singleHH	1	PRE	['312']	[]	20522	312_singleHH	
+496_singleHH	1	PRE	['496']	[]	11914	496_singleHH	
+154_singleHH	1	PRE	['154']	[]	7414	154_singleHH	
+450_singleHH	1	PRE	['450']	[]	18149	450_singleHH	
+643_singleHH	1	PRE	['643']	[]	20129	643_singleHH	
+259_singleHH	1	PRE	['259']	[]	10927	259_singleHH	
+493_singleHH	1	PRE	['493']	[]	1731	493_singleHH	
+42_M_43	2	PRE	['42', '43']	[]	5657	42_M_43	
+253_singleHH	1	PRE	['253']	[]	1049	253_singleHH	
+448_singleHH	1	PRE	['448']	[]	13087	448_singleHH	
+563_singleHH	1	PRE	['563']	[]	17646	563_singleHH	
+441_M_411	2	PRE	['441', '411']	['441_M_411_KID_0', '441_M_411_KID_1', '441_M_411_KID_2']	6463	441_M_411	
+442_singleHH	1	PRE	['442']	[]	1056	442_singleHH	
+572_singleHH	1	PRE	['572']	[]	16100	572_singleHH	
+396_singleHH	1	PRE	['396']	[]	9964	396_singleHH	
+392_singleHH	1	PRE	['392']	[]	12466	392_singleHH	
+436_M_424	2	PRE	['436', '424']	['436_M_424_KID_0', '436_M_424_KID_1', '436_M_424_KID_2', '436_M_424_KID_3']	14939	436_M_424	
+370_singleHH	1	PRE	['370']	[]	14150	370_singleHH	
+232_singleHH	1	PRE	['232']	[]	14473	232_singleHH	
+166_M_161	2	PRE	['166', '161']	['166_M_161_KID_0', '166_M_161_KID_1', '166_M_161_KID_2']	4553	166_M_161	
+528_singleHH	1	PRE	['528']	[]	999999999	
+46_singleHH	1	PRE	['46']	[]	4217	46_singleHH	
+49_singleHH	1	PRE	['49']	[]	7170	49_singleHH	
+588_singleHH	1	PRE	['588']	[]	13551	588_singleHH	
+328_singleHH	1	PRE	['328']	[]	999999999	
+258_singleHH	1	PRE	['258']	[]	20323	258_singleHH	
+381_singleHH	1	PRE	['381']	[]	999999999	
+39_singleHH	1	PRE	['39']	[]	15532	39_singleHH	
+367_singleHH	1	PRE	['367']	[]	14418	367_singleHH	
+104_singleHH	1	PRE	['104']	[]	15732	104_singleHH	
+622_singleHH	1	PRE	['622']	[]	15439	622_singleHH	
+629_singleHH	1	PRE	['629']	[]	14315	629_singleHH	
+86_M_80	2	PRE	['86', '80']	['86_M_80_KID_0', '86_M_80_KID_1', '86_M_80_KID_2']	9355	86_M_80	
+390_singleHH	1	PRE	['390']	[]	5736	390_singleHH	
+183_singleHH	1	PRE	['183']	[]	6003	183_singleHH	
+82_singleHH	1	PRE	['82']	[]	7741	82_singleHH	
+658_singleHH	1	PRE	['658']	[]	14715	658_singleHH	
+321_M_297	2	PRE	['321', '297']	[]	3354	321_M_297	
+314_singleHH	1	PRE	['314']	[]	4585	314_singleHH	
+330_M_304	2	PRE	['330', '304']	['330_M_304_KID_0', '330_M_304_KID_1']	3556	330_M_304	
+636_singleHH	1	PRE	['636']	[]	2838	636_singleHH	
+617_singleHH	1	PRE	['617']	[]	999999999	
+167_singleHH	1	PRE	['167']	[]	13792	167_singleHH	
+100_singleHH	1	PRE	['100']	[]	3472	100_singleHH	
+93_M_74	2	PRE	['93', '74']	['93_M_74_KID_0']	17140	93_M_74	
+44_singleHH	1	PRE	['44']	[]	13675	44_singleHH	
+320_singleHH	1	PRE	['320']	[]	999999999	
+79_singleHH	1	PRE	['79']	[]	18351	79_singleHH	
+433_M_421	2	PRE	['433', '421']	['433_M_421_KID_0', '433_M_421_KID_1', '433_M_421_KID_2', '433_M_421_KID_3']	12727	433_M_421	
+157_M_159	2	PRE	['157', '159']	['157_M_159_KID_0', '157_M_159_KID_1', '157_M_159_KID_2']	17989	157_M_159	
+596_singleHH	1	PRE	['596']	[]	7931	596_singleHH	
+526_M_501	2	PRE	['526', '501']	['526_M_501_KID_0']	7208	526_M_501	
+391_singleHH	1	PRE	['391']	[]	999999999	
+181_singleHH	1	PRE	['181']	[]	12135	181_singleHH	
+429_singleHH	1	PRE	['429']	[]	4834	429_singleHH	
+250_singleHH	1	PRE	['250']	[]	160	250_singleHH	
+111_M_83	2	PRE	['111', '83']	['111_M_83_KID_0', '111_M_83_KID_1', '111_M_83_KID_2', '111_M_83_KID_3']	11843	111_M_83	
+365_singleHH	1	PRE	['365']	[]	14998	365_singleHH	
+368_singleHH	1	PRE	['368']	[]	18480	368_singleHH	
+503_singleHH	1	PRE	['503']	[]	4830	503_singleHH	
+579_singleHH	1	PRE	['579']	[]	20736	579_singleHH	
+302_singleHH	1	PRE	['302']	[]	2991	302_singleHH	
+590_singleHH	1	PRE	['590']	[]	14607	590_singleHH	
+451_M_434	2	PRE	['451', '434']	['451_M_434_KID_0']	999999999	
+251_M_221	2	PRE	['251', '221']	['251_M_221_KID_0', '251_M_221_KID_1', '251_M_221_KID_2']	13585	251_M_221	
+525_singleHH	1	PRE	['525']	[]	10620	525_singleHH	
+237_singleHH	1	PRE	['237']	[]	17941	237_singleHH	
+146_M_147	2	PRE	['146', '147']	['146_M_147_KID_0']	4635	146_M_147	
+353_singleHH	1	PRE	['353']	[]	999999999	
+580_singleHH	1	PRE	['580']	[]	999999999	
+565_singleHH	1	PRE	['565']	[]	3549	565_singleHH	
+417_singleHH	1	PRE	['417']	[]	1802	417_singleHH	
+233_M_219	2	PRE	['233', '219']	['233_M_219_KID_0', '233_M_219_KID_1', '233_M_219_KID_2']	19657	233_M_219	
+234_singleHH	1	PRE	['234']	[]	763	234_singleHH	
+452_singleHH	1	PRE	['452']	[]	875	452_singleHH	
+560_singleHH	1	PRE	['560']	[]	15322	560_singleHH	
+653_M_633	2	PRE	['653', '633']	[]	13248	653_M_633	
+97_singleHH	1	PRE	['97']	[]	10788	97_singleHH	
+175_singleHH	1	PRE	['175']	[]	999999999	
+571_M_557	2	PRE	['571', '557']	['571_M_557_KID_0', '571_M_557_KID_1', '571_M_557_KID_2', '571_M_557_KID_3']	15645	571_M_557	
+422_singleHH	1	PRE	['422']	[]	999999999	
+92_M_73	2	PRE	['92', '73']	['92_M_73_KID_0', '92_M_73_KID_1']	16088	92_M_73	
+527_singleHH	1	PRE	['527']	[]	14827	527_singleHH	
+659_singleHH	1	PRE	['659']	[]	3680	659_singleHH	
+399_singleHH	1	PRE	['399']	[]	4871	399_singleHH	
+447_singleHH	1	PRE	['447']	[]	1785	447_singleHH	
+401_singleHH	1	PRE	['401']	[]	999999999	
+516_M_485	2	PRE	['516', '485']	['516_M_485_KID_0', '516_M_485_KID_1', '516_M_485_KID_2', '516_M_485_KID_3']	4314	516_M_485	
+102_singleHH	1	PRE	['102']	[]	426	102_singleHH	
+456_singleHH	1	PRE	['456']	[]	18882	456_singleHH	
+115_singleHH	1	PRE	['115']	[]	18348	115_singleHH	
+12_M_13	2	PRE	['12', '13']	['12_M_13_KID_0', '12_M_13_KID_1']	13859	12_M_13	
+113_singleHH	1	PRE	['113']	[]	4522	113_singleHH	
+366_singleHH	1	PRE	['366']	[]	999999999	
+308_singleHH	1	PRE	['308']	[]	5692	308_singleHH	
+414_singleHH	1	PRE	['414']	[]	16429	414_singleHH	
+291_singleHH	1	PRE	['291']	[]	999999999	
+32_M_1	2	PRE	['32', '1']	['32_M_1_KID_0', '32_M_1_KID_1', '32_M_1_KID_2']	20665	32_M_1	
+657_singleHH	1	PRE	['657']	[]	12633	657_singleHH	
+510_singleHH	1	PRE	['510']	[]	999999999	
+492_singleHH	1	PRE	['492']	[]	999999999	
+246_singleHH	1	PRE	['246']	[]	16869	246_singleHH	
+245_singleHH	1	PRE	['245']	[]	7174	245_singleHH	
+548_singleHH	1	PRE	['548']	[]	999999999	
+415_singleHH	1	PRE	['415']	[]	14024	415_singleHH	
+220_M_217	2	PRE	['220', '217']	['220_M_217_KID_0', '220_M_217_KID_1', '220_M_217_KID_2']	3910	220_M_217	
+553_M_550	2	PRE	['553', '550']	['553_M_550_KID_0', '553_M_550_KID_1', '553_M_550_KID_2']	18370	553_M_550	
+7_singleHH	1	PRE	['7']	[]	999999999	
+377_singleHH	1	PRE	['377']	[]	15753	377_singleHH	
+589_singleHH	1	PRE	['589']	[]	15280	589_singleHH	
+576_singleHH	1	PRE	['576']	[]	2953	576_singleHH	
+638_M_632	2	PRE	['638', '632']	['638_M_632_KID_0']	5338	638_M_632	
+413_singleHH	1	PRE	['413']	[]	11666	413_singleHH	
+169_singleHH	1	PRE	['169']	[]	10928	169_singleHH	
+416_M_418	2	PRE	['416', '418']	[]	17399	416_M_418	
+507_singleHH	1	PRE	['507']	[]	10770	507_singleHH	
+5_singleHH	1	PRE	['5']	[]	11373	5_singleHH	
+19_singleHH	1	PRE	['19']	[]	20783	19_singleHH	
+264_singleHH	1	PRE	['264']	[]	16496	264_singleHH	
+627_singleHH	1	PRE	['627']	[]	11203	627_singleHH	
+231_singleHH	1	PRE	['231']	[]	15607	231_singleHH	
+176_singleHH	1	PRE	['176']	[]	14447	176_singleHH	
+645_singleHH	1	PRE	['645']	[]	3971	645_singleHH	
+25_M_24	2	PRE	['25', '24']	['25_M_24_KID_0', '25_M_24_KID_1', '25_M_24_KID_2', '25_M_24_KID_3']	13090	25_M_24	
+45_singleHH	1	PRE	['45']	[]	10074	45_singleHH	
+106_singleHH	1	PRE	['106']	[]	4469	106_singleHH	
+301_singleHH	1	PRE	['301']	[]	4414	301_singleHH	
+331_M_307	2	PRE	['331', '307']	[]	10248	331_M_307	
+358_singleHH	1	PRE	['358']	[]	999999999	
+435_singleHH	1	PRE	['435']	[]	14716	435_singleHH	
+425_singleHH	1	PRE	['425']	[]	16488	425_singleHH	
+112_singleHH	1	PRE	['112']	[]	999999999	
+634_singleHH	1	PRE	['634']	[]	18015	634_singleHH	
+445_singleHH	1	PRE	['445']	[]	6386	445_singleHH	
+619_singleHH	1	PRE	['619']	[]	999999999	
+578_singleHH	1	PRE	['578']	[]	18384	578_singleHH	
+373_M_360	2	PRE	['373', '360']	['373_M_360_KID_0', '373_M_360_KID_1']	16097	373_M_360	
+240_singleHH	1	PRE	['240']	[]	16548	240_singleHH	
+286_singleHH	1	PRE	['286']	[]	999999999	
+244_singleHH	1	PRE	['244']	[]	11069	244_singleHH	
+505_singleHH	1	PRE	['505']	[]	10425	505_singleHH	
+238_singleHH	1	PRE	['238']	[]	15849	238_singleHH	
+626_singleHH	1	PRE	['626']	[]	14083	626_singleHH	
+385_M_352	2	PRE	['385', '352']	[]	9416	385_M_352	
+33_singleHH	1	PRE	['33']	[]	20146	33_singleHH	
+595_singleHH	1	PRE	['595']	[]	11654	595_singleHH	
+29_singleHH	1	PRE	['29']	[]	4757	29_singleHH	
+513_singleHH	1	PRE	['513']	[]	16529	513_singleHH	
+497_singleHH	1	PRE	['497']	[]	999999999	
+359_M_354	2	PRE	['359', '354']	['359_M_354_KID_0', '359_M_354_KID_1', '359_M_354_KID_2']	15077	359_M_354	
+494_singleHH	1	PRE	['494']	[]	9227	494_singleHH	
+298_M_284	2	PRE	['298', '284']	['298_M_284_KID_0']	10868	298_M_284	
+254_singleHH	1	PRE	['254']	[]	999999999	
+635_singleHH	1	PRE	['635']	[]	8280	635_singleHH	
+303_M_287	2	PRE	['303', '287']	['303_M_287_KID_0', '303_M_287_KID_1']	16235	303_M_287	
+582_singleHH	1	PRE	['582']	[]	4455	582_singleHH	
+299_M_285	2	PRE	['299', '285']	['299_M_285_KID_0', '299_M_285_KID_1']	1816	299_M_285	
+386_singleHH	1	PRE	['386']	[]	999999999	
+103_singleHH	1	PRE	['103']	[]	14256	103_singleHH	
+3_singleHH	1	PRE	['3']	[]	18808	3_singleHH	
+621_singleHH	1	PRE	['621']	[]	20056	621_singleHH	
+90_singleHH	1	PRE	['90']	[]	10377	90_singleHH	
+594_singleHH	1	PRE	['594']	[]	18925	594_singleHH	
+170_singleHH	1	PRE	['170']	[]	20300	170_singleHH	
+294_singleHH	1	PRE	['294']	[]	999999999	
+428_singleHH	1	PRE	['428']	[]	14461	428_singleHH	
+661_M_618	2	PRE	['661', '618']	['661_M_618_KID_0', '661_M_618_KID_1', '661_M_618_KID_2']	977	661_M_618	
+506_singleHH	1	PRE	['506']	[]	4375	506_singleHH	
+145_singleHH	1	PRE	['145']	[]	999999999	
+568_singleHH	1	PRE	['568']	[]	10120	568_singleHH	
+15_singleHH	1	PRE	['15']	[]	11184	15_singleHH	
+369_singleHH	1	PRE	['369']	[]	7500	369_singleHH	
+108_singleHH	1	PRE	['108']	[]	11994	108_singleHH	
+431_singleHH	1	PRE	['431']	[]	9294	431_singleHH	
+317_singleHH	1	PRE	['317']	[]	4611	317_singleHH	
+34_singleHH	1	PRE	['34']	[]	18711	34_singleHH	
+22_singleHH	1	PRE	['22']	[]	19397	22_singleHH	
+583_singleHH	1	PRE	['583']	[]	10335	583_singleHH	
+309_singleHH	1	PRE	['309']	[]	4546	309_singleHH	
+85_singleHH	1	PRE	['85']	[]	4027	85_singleHH	
+162_M_150	2	PRE	['162', '150']	['162_M_150_KID_0', '162_M_150_KID_1', '162_M_150_KID_2']	400	162_M_150	
+647_singleHH	1	PRE	['647']	[]	5257	647_singleHH	
+36_singleHH	1	PRE	['36']	[]	999999999	
+364_singleHH	1	PRE	['364']	[]	999999999	
+248_M_227	2	PRE	['248', '227']	['248_M_227_KID_0', '248_M_227_KID_1']	247	248_M_227	
+371_singleHH	1	PRE	['371']	[]	13910	371_singleHH	
+186_singleHH	1	PRE	['186']	[]	9487	186_singleHH	
+517_singleHH	1	PRE	['517']	[]	2367	517_singleHH	
+256_singleHH	1	PRE	['256']	[]	10216	256_singleHH	
+556_singleHH	1	PRE	['556']	[]	999999999	
+625_singleHH	1	PRE	['625']	[]	8645	625_singleHH	
+654_singleHH	1	PRE	['654']	[]	999999999	
+249_M_228	2	PRE	['249', '228']	['249_M_228_KID_0', '249_M_228_KID_1']	19523	249_M_228	
+593_singleHH	1	PRE	['593']	[]	19824	593_singleHH	
+646_singleHH	1	PRE	['646']	[]	15404	646_singleHH	
+555_singleHH	1	PRE	['555']	[]	20369	555_singleHH	
+333_singleHH	1	PRE	['333']	[]	15364	333_singleHH	
+491_singleHH	1	PRE	['491']	[]	999999999	
+94_singleHH	1	PRE	['94']	[]	999999999	
+400_singleHH	1	PRE	['400']	[]	19175	400_singleHH	
+261_singleHH	1	PRE	['261']	[]	16545	261_singleHH	
+379_singleHH	1	PRE	['379']	[]	6616	379_singleHH	
+316_M_288	2	PRE	['316', '288']	['316_M_288_KID_0', '316_M_288_KID_1', '316_M_288_KID_2', '316_M_288_KID_3']	6174	316_M_288	
+252_singleHH	1	PRE	['252']	[]	3323	252_singleHH	
+48_singleHH	1	PRE	['48']	[]	999999999	
+437_singleHH	1	PRE	['437']	[]	5531	437_singleHH	
+384_singleHH	1	PRE	['384']	[]	6606	384_singleHH	
+255_M_229	2	PRE	['255', '229']	[]	20814	255_M_229	
+6_M_2	2	PRE	['6', '2']	[]	3029	6_M_2	
+109_singleHH	1	PRE	['109']	[]	999999999	
+378_singleHH	1	PRE	['378']	[]	9990	378_singleHH	
+520_singleHH	1	PRE	['520']	[]	15848	520_singleHH	
+290_singleHH	1	PRE	['290']	[]	999999999	
+87_singleHH	1	PRE	['87']	[]	11901	87_singleHH	
+455_singleHH	1	PRE	['455']	[]	3363	455_singleHH	
+426_singleHH	1	PRE	['426']	[]	15365	426_singleHH	
+375_singleHH	1	PRE	['375']	[]	999999999	
+187_singleHH	1	PRE	['187']	[]	3679	187_singleHH	
+620_M_623	2	PRE	['620', '623']	['620_M_623_KID_0', '620_M_623_KID_1', '620_M_623_KID_2']	3266	620_M_623	
+398_singleHH	1	PRE	['398']	[]	18651	398_singleHH	
+457_singleHH	1	PRE	['457']	[]	15903	457_singleHH	
+110_singleHH	1	PRE	['110']	[]	999999999	
+225_singleHH	1	PRE	['225']	[]	999999999	
+114_singleHH	1	PRE	['114']	[]	11190	114_singleHH	
+374_singleHH	1	PRE	['374']	[]	9070	374_singleHH	
+260_singleHH	1	PRE	['260']	[]	19527	260_singleHH	
+306_singleHH	1	PRE	['306']	[]	11476	306_singleHH	
+263_singleHH	1	PRE	['263']	[]	999999999	
+107_singleHH	1	PRE	['107']	[]	9558	107_singleHH	
+91_singleHH	1	PRE	['91']	[]	3397	91_singleHH	
+27_singleHH	1	PRE	['27']	[]	3286	27_singleHH	
+310_singleHH	1	PRE	['310']	[]	999999999	
+190_singleHH	1	PRE	['190']	[]	11154	190_singleHH	
+574_singleHH	1	PRE	['574']	[]	14232	574_singleHH	
+189_singleHH	1	PRE	['189']	[]	20358	189_singleHH	
+184_singleHH	1	PRE	['184']	[]	9524	184_singleHH	
+613_M_615	2	PRE	['613', '615']	[]	3098	613_M_615	
+118_M_89	2	PRE	['118', '89']	[]	3990	118_M_89	
+313_singleHH	1	PRE	['313']	[]	7586	313_singleHH	
+521_singleHH	1	PRE	['521']	[]	5940	521_singleHH	
+257_singleHH	1	PRE	['257']	[]	2102	257_singleHH	
+637_singleHH	1	PRE	['637']	[]	669	637_singleHH	
+192_singleHH	1	PRE	['192']	[]	20290	192_singleHH	
+440_singleHH	1	PRE	['440']	[]	8830	440_singleHH	
+509_singleHH	1	PRE	['509']	[]	8019	509_singleHH	
+577_singleHH	1	PRE	['577']	[]	10675	577_singleHH	
+322_M_289	2	PRE	['322', '289']	['322_M_289_KID_0', '322_M_289_KID_1', '322_M_289_KID_2', '322_M_289_KID_3']	16420	322_M_289	
+511_singleHH	1	PRE	['511']	[]	11115	511_singleHH	
+569_singleHH	1	PRE	['569']	[]	14797	569_singleHH	
+444_M_412	2	PRE	['444', '412']	['444_M_412_KID_0', '444_M_412_KID_1', '444_M_412_KID_2', '444_M_412_KID_3']	6959	444_M_412	
+480_singleHH	1	PRE	['480']	[]	11828	480_singleHH	
+504_singleHH	1	PRE	['504']	[]	18220	504_singleHH	
+148_M_149	2	PRE	['148', '149']	['148_M_149_KID_0', '148_M_149_KID_1']	19925	148_M_149	
+243_singleHH	1	PRE	['243']	[]	3222	243_singleHH	
+8_M_10	2	PRE	['8', '10']	['8_M_10_KID_0']	13433	8_M_10	
+326_singleHH	1	PRE	['326']	[]	11110	326_singleHH	
+592_singleHH	1	PRE	['592']	[]	10905	592_singleHH	

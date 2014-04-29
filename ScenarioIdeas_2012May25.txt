@@ -1,0 +1,31 @@
+if homeless:
+ - Likelihood of staying in town is very low (only 198 peope getting services out of 50k) (http://www.gazettetimes.com/news/local/article_88090df9-f031-5e2a-a7d3-0bad84fb95da.html)
+
+if jobless:
+ - Likelihood of staying in town is lower (?), dependent on employment rate elsewhere?
+ - Likelihood of staying in home is lower (?)
+
+if homeless and jobless:
+ - ??
+
+Data needed in scenarios
+ - Immigration rate
+ - Emmigration rate
+ - Jobs available
+ - Job creation (baseline according to Econ Dev Plan): 2002-2010 = 0.46% per annum
+ - Wages and Salaries Growth
+ - Apartment Stock (1,2,3) and growth rate
+ - Housing stock (1,2,3,4) and growth rate
+ - TH stock (1,2,3,4) and growth rate
+ - 
+
+
+
+Scenarios:
+From 2020 Vision Statement
+ - Population Range: 57500 to 63500
+ - "upper floors of many buildings (in downtown) house residential units, including affordable housing for the elderly, disabled and low and moderate income citizens." (pg.3)
+
+From Econoimc Development Plan (http://archive.ci.corvallis.or.us/ElectronicFile.aspx?docid=326421&dbid=0)
+ - Flat employment
+ - Flat per capita income

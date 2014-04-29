@@ -1,0 +1,7 @@
+name	NameHere
+popGrowth	InPercent
+OSUGrowth	InPercent
+nNewHouses	[percentOfHouseType, %1BR, %2BR, %3BR, etc.)
+nNewApts	[percentOfHouseType, %1BR, %2BR, %3BR, etc.)
+nNewTH	[percentOfHouseType, %1BR, %2BR, %3BR, etc.)
+perGrow	PercentHousingGrowthPerYear

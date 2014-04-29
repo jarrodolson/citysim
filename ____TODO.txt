@@ -1,0 +1,18 @@
+To Do in Model:
+
+ - Student count is not staying high enough... I think it's a function of house prices pushing students out
+
+ - Need to set up for multiple population runs in scripted setting
+ -- Should run up to 6 populations, 2 populations per housing set, recording data separately for each run
+
+ - Prices change much more rapidly in unit types with more availability
+
+ - Unemployed currently have same average income as the employed in new population
+
+ - 2201 households make over 200k (out of 14,100) - seems a bit high
+
+ - The population doesn't start out with any students in the dorms
+
+ - Need to fix student so that it can handle grad students, etc.
+
+ - When a sibling leaves the house, the other siblings don't always age

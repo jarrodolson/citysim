@@ -1,0 +1,7 @@
+name	Baseline
+popGrowth	.97
+OSUGrowth	10
+nNewHouses	[10,20,10,10,5,0]
+nNewApts	[20,30,40,20]
+nNewTH	[0,20,30,40,30,0]
+perGrow	.1

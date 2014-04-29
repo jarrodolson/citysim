@@ -1,0 +1,8 @@
+class fullModel:
+    def __init__(self,parent):
+        print "Hello World!"
+        
+
+#######################################################################
+root = []
+myApp = fullModel(root0
